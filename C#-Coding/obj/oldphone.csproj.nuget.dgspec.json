@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Brij\\Desktop\\Iron Software C# Coding Challenge\\C#-Coding\\oldphone.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Brij\\Desktop\\Iron Software C# Coding Challenge\\C#-Coding\\oldphone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brij\\Desktop\\Iron Software C# Coding Challenge\\C#-Coding\\oldphone.csproj",
+        "projectName": "oldphone",
+        "projectPath": "C:\\Users\\Brij\\Desktop\\Iron Software C# Coding Challenge\\C#-Coding\\oldphone.csproj",
+        "packagesPath": "C:\\Users\\Brij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brij\\Desktop\\Iron Software C# Coding Challenge\\C#-Coding\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.deps.json
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.runtimeconfig.json
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.runtimeconfig.dev.json
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.dll
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.pdb
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.csproj.AssemblyReference.cache
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.AssemblyInfoInputs.cache
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.AssemblyInfo.cs
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.csproj.CoreCompileInputs.cache
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.sourcelink.json
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.dll
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.pdb
+C:\Users\Brij\Desktop\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.genruntimeconfig.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.deps.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.runtimeconfig.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.runtimeconfig.dev.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.dll
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\bin\Debug\netcoreapp2.1\oldphonerealtime.pdb
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.csproj.AssemblyReference.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.AssemblyInfoInputs.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.AssemblyInfo.cs
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.csproj.CoreCompileInputs.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.sourcelink.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.dll
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.pdb
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding-With-Realtime\obj\Debug\netcoreapp2.1\oldphonerealtime.genruntimeconfig.cache

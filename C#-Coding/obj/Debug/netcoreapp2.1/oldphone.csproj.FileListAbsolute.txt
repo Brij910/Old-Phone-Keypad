@@ -1,0 +1,28 @@
+C:\Users\Brij\Desktop\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.deps.json
+C:\Users\Brij\Desktop\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.runtimeconfig.json
+C:\Users\Brij\Desktop\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.runtimeconfig.dev.json
+C:\Users\Brij\Desktop\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.dll
+C:\Users\Brij\Desktop\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.pdb
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.csproj.AssemblyReference.cache
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.AssemblyInfoInputs.cache
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.AssemblyInfo.cs
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.csproj.CoreCompileInputs.cache
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.sourcelink.json
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.dll
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.pdb
+C:\Users\Brij\Desktop\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.genruntimeconfig.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.deps.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.runtimeconfig.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.runtimeconfig.dev.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.dll
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\bin\Debug\netcoreapp2.1\oldphone.pdb
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.csproj.AssemblyReference.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.AssemblyInfoInputs.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.AssemblyInfo.cs
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.csproj.CoreCompileInputs.cache
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.sourcelink.json
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.dll
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.pdb
+C:\Users\Brij\Desktop\Iron Software C# Coding Challenge\C#-Coding\obj\Debug\netcoreapp2.1\oldphone.genruntimeconfig.cache
